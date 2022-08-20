@@ -1,0 +1,5 @@
+<svg id="pick" xmlns="http://www.w3.org/2000/svg" width="38" height="12" viewBox="0 0 38 12">
+  <rect id="사각형_1" data-name="사각형 1" width="38" height="12" rx="2" fill="#f7ff00"/>
+  <text id="Pick_" data-name="Pick !" transform="translate(7 8)" fill="#606060" font-size="8" font-family="KoreanPIT-R, KoreanPITR"><tspan x="0" y="0">Pick !</tspan></text>
+  <text id="Pick_2" data-name="Pick !" transform="translate(7 8)" fill="#606060" font-size="8" font-family="KoreanPIT-R, KoreanPITR"><tspan x="0" y="0">Pick !</tspan></text>
+</svg>
